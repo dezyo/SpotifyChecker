@@ -32,7 +32,6 @@ for user, password in getEmailUser('txt.txt'):
 
 ```
 - Change time.sleep to a function to wait until the page is loaded
-- Write the results into a file
 ```
 
 ## Authors
@@ -41,4 +40,4 @@ for user, password in getEmailUser('txt.txt'):
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md] file for details
